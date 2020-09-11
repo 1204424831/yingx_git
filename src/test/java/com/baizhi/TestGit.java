@@ -8,5 +8,4 @@ public class TestGit {
         System.out.println("我自己的第一次推送");
         System.out.println("我自己的第二次推送");
     }
-
 }
